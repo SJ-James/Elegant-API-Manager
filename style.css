@@ -1,0 +1,37 @@
+#tab_text_area .api_url, #tab_text_area .api_label {
+    background: #f7f9fb;
+    border: 0;
+    padding: 10px;
+    width: calc(50% - 30px);
+    margin: 20px 0;
+    font-family: Poppins;
+}
+
+#tab_text_area .api_url {
+    float: right;
+}
+
+#tab_text_area button#save {
+    background: #4843d2;
+    border: 0;
+    padding: 20px;
+    width: 100%;
+    border-radius: 40px;
+    font-family: Poppins;
+    color: #fff;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+#tab_text_area .save-message {
+    position: fixed;
+    width: 500px;
+    height: 340px;
+    left: calc(50% - 250px);
+    top: calc(50% - 170px);
+    background: #fff;
+    line-height: 340px;
+    font-size: 20px;
+    text-align: center;
+    box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
+}
