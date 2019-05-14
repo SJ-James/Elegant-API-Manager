@@ -8,3 +8,5 @@ A Chrome Extension to add client management fields to Elegant Theme's API Page
 3. Click 'LOAD UNPACKED' and choose the Elegant-API-Manager folder. 
 
 You'll now have fields for client name and URL when visiting https://www.elegantthemes.com/members-area/api/
+
+![](Screenshot.jpg)
